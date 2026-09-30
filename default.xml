@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<Open_Mod_Manager_Repository>
-  <uuid>a935ae89-3348-4dd8-851b-a4a6f91e004d</uuid>
-  <title>New Repository</title>
-  <downpath>files/</downpath>
-  <references count="0">
-    <mod ident="FA-18C_Skins_v1.0" file="FA-18C_Skins_v1.0.ozp" bytes="832112976" xxhsum="c75f055c3c2edd95" category="Skin" />
-  </references>
-</Open_Mod_Manager_Repository>

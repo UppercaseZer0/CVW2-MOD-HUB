@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Open_Mod_Manager_Repository>
+  <uuid>aa1db9f5-bf5f-4278-b67f-ba9ce8b20eda</uuid>
+  <title>CVW2 Mods</title>
+  <downpath>files/</downpath>
+  <references count="0">
+    <mod ident="FA-18C_Skins_v1.0" file="FA-18C_Skins_v1.0.ozp" bytes="832112976" xxhsum="c75f055c3c2edd95" category="Skin">
+      <url>https://drive.usercontent.google.com/download?id=17Z4d6fcmhJvz7HNDqDAl0dVEUwS6ma65&amp;export=download&amp;authuser=0</url>
+      <description bytes="3">data:application/octet-stream;base64,eJxLzGAAAAH2AMo=</description>
+    </mod>
+  </references>
+</Open_Mod_Manager_Repository>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Open_Mod_Manager_Repository>
+  <uuid>86b6c452-a67d-4d19-871a-a826c80cf526</uuid>
+  <title>CWV2 Mods Repository</title>
+  <downpath>https://github.com/UppercaseZer0/CVW2-MOD-HUB/archive/refs/heads/main.zip</downpath>
+  <references count="0">
+    <mod ident="FA-18C_hornet" file="FA-18C_hornet.zip" bytes="18424598" xxhsum="0292d365a53317f5" category="">
+      <url>https://github.com/UppercaseZer0/CVW2-MOD-HUB/archive/refs/heads/main.zip</url>
+      <description bytes="6">data:application/octet-stream;base64,eJwLzs7MK2YAAAfjAgk=</description>
+    </mod>
+  </references>
+</Open_Mod_Manager_Repository>

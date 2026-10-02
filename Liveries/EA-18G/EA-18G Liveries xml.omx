@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Open_Mod_Manager_Repository>
+  <uuid>f911e44d-4819-4e5a-9a4f-861a6a953d70</uuid>
+  <title>EA-18G Liveries</title>
+  <downpath>https://github.com/UppercaseZer0/CVW2-MOD-HUB.git</downpath>
+  <references count="0">
+    <mod ident="NE500_v1.0" file="NE500_v1.0.ozp" bytes="5467563" xxhsum="42d53a326e837319" category="Generic" />
+    <mod ident="NE502_v1.0" file="NE502_v1.0.ozp" bytes="5435884" xxhsum="90931bd541a9da90" category="Generic" />
+    <mod ident="NE504_v1.0" file="NE504_v1.0.ozp" bytes="5436292" xxhsum="6dfbd2472cde578e" category="Generic" />
+    <mod ident="NE505_v1.0" file="NE505_v1.0.ozp" bytes="5437221" xxhsum="9deae80570566c7c" category="Generic" />
+  </references>
+</Open_Mod_Manager_Repository>

@@ -4,6 +4,8 @@
   <title>Skins</title>
   <downpath>https://github.com/UppercaseZer0/CVW2-MOD-HUB.git</downpath>
   <references count="0">
-    <mod ident="Weapons" file="Weapons.zip" bytes="79225775" xxhsum="6915ac796b63f858" category="" />
+    <mod ident="Weapons" file="Weapons.zip" bytes="79225775" xxhsum="6915ac796b63f858" category="">
+      <url>https://github.com/UppercaseZer0/CVW2-MOD-HUB/raw/refs/heads/main/Liveries/Weapon%20Liveries/Weapons.zip</url>
+    </mod>
   </references>
 </Open_Mod_Manager_Repository>

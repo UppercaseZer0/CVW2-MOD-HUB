@@ -4,9 +4,17 @@
   <title>FA-18E Liveries</title>
   <downpath>https://github.com/UppercaseZer0/CVW2-MOD-HUB.git</downpath>
   <references count="0">
-    <mod ident="VFA-137_NE_200_v1.0" file="VFA-137_NE_200_v1.0.ozp" bytes="48618099" xxhsum="5c36062f62109209" category="Generic" />
-    <mod ident="VFA-137_NE_Line_v1.0" file="VFA-137_NE_Line_v1.0.ozp" bytes="34736059" xxhsum="975a57cc60acd6ab" category="Generic" />
-    <mod ident="VFA-151_NE_Line_v1.0" file="VFA-151_NE_Line_v1.0.ozp" bytes="34736059" xxhsum="85d2320e47c3c8ef" category="Generic" />
-    <mod ident="VFA-151_NE401_CO_v1.0" file="VFA-151_NE401_CO_v1.0.ozp" bytes="8946583" xxhsum="17cc8b819c558dd4" category="Generic" />
+    <mod ident="VFA-137_NE_200_v1.0" file="VFA-137_NE_200_v1.0.ozp" bytes="48618099" xxhsum="5c36062f62109209" category="Generic">
+      <url>https://github.com/UppercaseZer0/CVW2-MOD-HUB/raw/refs/heads/main/Liveries/FA-18E%20Liveries/VFA-137_NE_200_v1.0.ozp</url>
+    </mod>
+    <mod ident="VFA-137_NE_Line_v1.0" file="VFA-137_NE_Line_v1.0.ozp" bytes="34736059" xxhsum="975a57cc60acd6ab" category="Generic">
+      <url>https://github.com/UppercaseZer0/CVW2-MOD-HUB/raw/refs/heads/main/Liveries/FA-18E%20Liveries/VFA-137_NE_Line_v1.0.ozp</url>
+    </mod>
+    <mod ident="VFA-151_NE_Line_v1.0" file="VFA-151_NE_Line_v1.0.ozp" bytes="34736059" xxhsum="85d2320e47c3c8ef" category="Generic">
+      <url>https://github.com/UppercaseZer0/CVW2-MOD-HUB/raw/refs/heads/main/Liveries/FA-18E%20Liveries/VFA-151_NE_Line_v1.0.ozp</url>
+    </mod>
+    <mod ident="VFA-151_NE401_CO_v1.0" file="VFA-151_NE401_CO_v1.0.ozp" bytes="8946583" xxhsum="17cc8b819c558dd4" category="Generic">
+      <url>https://github.com/UppercaseZer0/CVW2-MOD-HUB/raw/refs/heads/main/Liveries/FA-18E%20Liveries/VFA-151_NE401_CO_v1.0.ozp</url>
+    </mod>
   </references>
 </Open_Mod_Manager_Repository>

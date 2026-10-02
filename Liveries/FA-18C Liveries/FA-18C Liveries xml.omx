@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Open_Mod_Manager_Repository>
+  <uuid>267ab969-4575-4095-9534-d5f0cdba3f71</uuid>
+  <title>FA-18C Liveries</title>
+  <downpath>https://github.com/UppercaseZer0/CVW2-MOD-HUB.git</downpath>
+  <references count="0">
+    <mod ident="VFA-125_NJ300_v1.0" file="VFA-125_NJ300_v1.0.ozp" bytes="51064636" xxhsum="2ef7b25f6a2a1f99" category="Skin" />
+    <mod ident="VFA-125_NJ306_v1.0" file="VFA-125_NJ306_v1.0.ozp" bytes="52411777" xxhsum="8c34b63b2131f515" category="Skin" />
+    <mod ident="VFA-125_NJ330_v1.0" file="VFA-125_NJ330_v1.0.ozp" bytes="52411609" xxhsum="b11ec479bd910818" category="Skin" />
+    <mod ident="VFA-125_NJ355_v1.0" file="VFA-125_NJ355_v1.0.ozp" bytes="52410616" xxhsum="e5d8c491611fa0cd" category="Skin" />
+    <mod ident="VFA-137_200_-_CAG_v1.0" file="VFA-137_200_-_CAG_v1.0.ozp" bytes="28009387" xxhsum="f000a5ba09457f7f" category="Skin" />
+    <mod ident="VFA-137_201_-_Logs_v1.0" file="VFA-137_201_-_Logs_v1.0.ozp" bytes="29468648" xxhsum="63a5231f0fd8c092" category="Skin" />
+    <mod ident="VFA-137_202_-_Heath_v1.0" file="VFA-137_202_-_Heath_v1.0.ozp" bytes="28949345" xxhsum="36c2d56973cb62b6" category="Skin" />
+    <mod ident="VFA-137_203_-_Stafford_v1.0" file="VFA-137_203_-_Stafford_v1.0.ozp" bytes="28606113" xxhsum="5fc9f573b65c6584" category="Skin" />
+    <mod ident="VFA-137_204_-_Phoenix_v1.0" file="VFA-137_204_-_Phoenix_v1.0.ozp" bytes="28547530" xxhsum="bb5470fc5208ba02" category="Skin" />
+    <mod ident="VFA-137_205_-_Mardy_v1.0" file="VFA-137_205_-_Mardy_v1.0.ozp" bytes="29015530" xxhsum="f2d5665034a9244c" category="Skin" />
+    <mod ident="VFA-137_206_-_Shane_v1.0" file="VFA-137_206_-_Shane_v1.0.ozp" bytes="28745712" xxhsum="47d4e02df78e8478" category="Skin" />
+    <mod ident="VFA-137_207_v1.0" file="VFA-137_207_v1.0.ozp" bytes="28042347" xxhsum="e8487f89978c0616" category="Skin" />
+    <mod ident="VFA-137_210_-_Trip_v1.0" file="VFA-137_210_-_Trip_v1.0.ozp" bytes="29046467" xxhsum="1351bd22f310fb93" category="Skin" />
+    <mod ident="VFA-137_211_v1.0" file="VFA-137_211_v1.0.ozp" bytes="28034719" xxhsum="d9c080553697477e" category="Skin" />
+    <mod ident="VFA-151_CAG_-_Hot_Carl_v1.0" file="VFA-151_CAG_-_Hot_Carl_v1.0.ozp" bytes="32553166" xxhsum="d63195a0f7b85ce2" category="Skin" />
+    <mod ident="VFA-151_Line_301_-_Fresh_v1.0" file="VFA-151_Line_301_-_Fresh_v1.0.ozp" bytes="32334750" xxhsum="179bff8c50003d98" category="Skin" />
+    <mod ident="VFA-151_Line_303_-_Streamer_v1.0" file="VFA-151_Line_303_-_Streamer_v1.0.ozp" bytes="31676317" xxhsum="53944957c7c51c55" category="Skin" />
+    <mod ident="VFA-151_Line_304_-_Hammer_v1.0" file="VFA-151_Line_304_-_Hammer_v1.0.ozp" bytes="31991127" xxhsum="30451d9e36bb3fbb" category="Skin" />
+    <mod ident="VFA-151_Line_305_-_KGB_v1.0" file="VFA-151_Line_305_-_KGB_v1.0.ozp" bytes="31511862" xxhsum="139d053204e2d08a" category="Skin" />
+    <mod ident="VFA-151_Line_306_-_FNG_Beck_v1.0" file="VFA-151_Line_306_-_FNG_Beck_v1.0.ozp" bytes="31287958" xxhsum="4c72041436a03228" category="Skin" />
+    <mod ident="VFA-151_Line_307_-_FNG3_Snyder_v1.0" file="VFA-151_Line_307_-_FNG3_Snyder_v1.0.ozp" bytes="31292661" xxhsum="a2d420e50fe6de71" category="Skin" />
+    <mod ident="VFA-151_Line_Alt_310_-_FNG2_Brubaker_v1.0" file="VFA-151_Line_Alt_310_-_FNG2_Brubaker_v1.0.ozp" bytes="31187415" xxhsum="4568a026414968ce" category="Skin" />
+    <mod ident="VFA-151_Line_Alternate_v1.0" file="VFA-151_Line_Alternate_v1.0.ozp" bytes="25694037" xxhsum="2f9c2c7bef64234c" category="Skin" />
+    <mod ident="VFA-151_Line_v1.0" file="VFA-151_Line_v1.0.ozp" bytes="25792127" xxhsum="e177b01cda6bf048" category="Skin" />
+    <mod ident="VFA-151_XO_-_Heath_v1.0" file="VFA-151_XO_-_Heath_v1.0.ozp" bytes="32039095" xxhsum="30e04bd3b2820a7c" category="Skin" />
+  </references>
+</Open_Mod_Manager_Repository>

@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<Open_Mod_Manager_Repository>
-  <uuid>9d25be07-b2f4-431e-b965-0fbfd566fb9c</uuid>
-  <title>Skins</title>
-  <downpath>https://github.com/UppercaseZer0/CVW2-MOD-HUB.git</downpath>
-  <references count="0">
-    <mod ident="Weapons_v1.0" file="Weapons_v1.0.ozp" bytes="79194011" xxhsum="051ffb168d3fac5e" category="Texture" />
-  </references>
-</Open_Mod_Manager_Repository>

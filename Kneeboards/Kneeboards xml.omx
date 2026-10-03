@@ -4,9 +4,17 @@
   <title>Kneeboards</title>
   <downpath>https://github.com/UppercaseZer0/CVW2-MOD-HUB.git</downpath>
   <references count="0">
-    <mod ident="EA-18G" file="EA-18G.zip" bytes="13390974" xxhsum="56061b56937031a2" category="" />
-    <mod ident="F-14B" file="F-14B.zip" bytes="3642580" xxhsum="92e80dd4f76dd794" category="" />
-    <mod ident="FA-18C" file="FA-18C.zip" bytes="18624671" xxhsum="092342b84054096c" category="" />
-    <mod ident="FA-18E" file="FA-18E.zip" bytes="10287585" xxhsum="b5ad9bff842f1087" category="" />
+    <mod ident="EA-18G" file="EA-18G.zip" bytes="13390974" xxhsum="56061b56937031a2" category="">
+      <url>https://github.com/UppercaseZer0/CVW2-MOD-HUB/raw/refs/heads/main/Kneeboards/EA-18G.zip</url>
+    </mod>
+    <mod ident="F-14B" file="F-14B.zip" bytes="3642580" xxhsum="92e80dd4f76dd794" category="">
+      <url>https://github.com/UppercaseZer0/CVW2-MOD-HUB/raw/refs/heads/main/Kneeboards/F-14B.zip</url>
+    </mod>
+    <mod ident="FA-18C" file="FA-18C.zip" bytes="18624671" xxhsum="092342b84054096c" category="">
+      <url>https://github.com/UppercaseZer0/CVW2-MOD-HUB/raw/refs/heads/main/Kneeboards/FA-18C.zip</url>
+    </mod>
+    <mod ident="FA-18E" file="FA-18E.zip" bytes="10287585" xxhsum="b5ad9bff842f1087" category="">
+      <url>https://github.com/UppercaseZer0/CVW2-MOD-HUB/raw/refs/heads/main/Kneeboards/FA-18E.zip</url>
+    </mod>
   </references>
 </Open_Mod_Manager_Repository>

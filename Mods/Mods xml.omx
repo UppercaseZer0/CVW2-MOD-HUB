@@ -4,12 +4,12 @@
   <title>Mods</title>
   <downpath>https://github.com/UppercaseZer0/CVW2-MOD-HUB.git</downpath>
   <references count="0">
-    <mod ident="476 vFG - Air Weapons Range Objects (14NOV2019)" file="476 vFG - Air Weapons Range Objects (14NOV2019).zip" bytes="45350782" xxhsum="9bdd9c604eefb111" category="" />
     <mod ident="HighDigitSAMs_v2_1_0" file="HighDigitSAMs_v2_1_0.zip" bytes="232222008" xxhsum="7e67612f1a3d95a3" category="">
       <url>https://github.com/Auranis/HighDigitSAMs/releases/download/v2.1.0/HighDigitSAMs_v2_1_0.zip</url>
     </mod>
     <mod ident="Military_Aircraft_Mod_V1.7.1a" file="Military_Aircraft_Mod_V1.7.1a.zip" bytes="193032587" xxhsum="81960e8b8d17954c" category="">
       <url>https://drive.usercontent.google.com/open?id=1Bq5GhKx38-eYN33GoBB1nQ4CS591c9xl&amp;authuser=0</url>
     </mod>
+    <mod ident="476 vFG - Air Weapons Range Objects" file="476 vFG - Air Weapons Range Objects.zip" bytes="45386122" xxhsum="7aa32a36fe567a43" category="" />
   </references>
 </Open_Mod_Manager_Repository>

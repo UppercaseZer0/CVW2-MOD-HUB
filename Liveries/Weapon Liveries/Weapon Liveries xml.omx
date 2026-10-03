@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Open_Mod_Manager_Repository>
+  <uuid>62cd6cc5-6f42-40ad-9292-f450039e705b</uuid>
+  <title>Weapon Liveries</title>
+  <downpath>https://github.com/UppercaseZer0/CVW2-MOD-HUB.git</downpath>
+  <references count="0">
+    <mod ident="Weapon_Liveries_v1.0" file="Weapon_Liveries_v1.0.ozp" bytes="77837496" xxhsum="8f1b96506307e2be" category="Generic" />
+  </references>
+</Open_Mod_Manager_Repository>

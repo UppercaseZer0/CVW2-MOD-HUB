@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Open_Mod_Manager_Repository>
+  <uuid>5d94ee5e-bd43-48c4-9f68-e9afc28fdf0b</uuid>
+  <title>S-3B Liveries</title>
+  <downpath>https://github.com/UppercaseZer0/CVW2-MOD-HUB.git</downpath>
+  <references count="0">
+    <mod ident="VS-21_NF_v1.0" file="VS-21_NF_v1.0.ozp" bytes="9462065" xxhsum="0a83a96f0e1d7d0f" category="Generic" />
+    <mod ident="VS-21_NH_High_Vis_v1.0" file="VS-21_NH_High_Vis_v1.0.ozp" bytes="15809590" xxhsum="aacf802277378f33" category="Generic" />
+    <mod ident="VS-21_NH_v1.0" file="VS-21_NH_v1.0.ozp" bytes="8331552" xxhsum="42e5afa2cd231afd" category="Generic" />
+    <mod ident="VS-22_AC_v1.0" file="VS-22_AC_v1.0.ozp" bytes="10828687" xxhsum="6694abb8504de855" category="Generic" />
+    <mod ident="VS-24_AJ_High_Vis_v1.0" file="VS-24_AJ_High_Vis_v1.0.ozp" bytes="15813719" xxhsum="f244ebff7be4c4e1" category="Generic" />
+    <mod ident="VS-24_AJ_v1.0" file="VS-24_AJ_v1.0.ozp" bytes="9459736" xxhsum="e374d1861d1846d1" category="Generic" />
+    <mod ident="VS-28_AE_High_Vis_v1.0" file="VS-28_AE_High_Vis_v1.0.ozp" bytes="15821175" xxhsum="190bf419aa90b13c" category="Generic" />
+    <mod ident="VS-28_AE_v1.0" file="VS-28_AE_v1.0.ozp" bytes="8325265" xxhsum="2ca2b84f0e1dd9a0" category="Generic" />
+    <mod ident="VS-29_NL_High_Vis_v1.0" file="VS-29_NL_High_Vis_v1.0.ozp" bytes="15830572" xxhsum="067543ec644f0ff7" category="Generic" />
+    <mod ident="VS-30_AA_v1.0" file="VS-30_AA_v1.0.ozp" bytes="9457244" xxhsum="02b9e059da3a82ea" category="Generic" />
+    <mod ident="VS-31_AG_High_Vis_v1.0" file="VS-31_AG_High_Vis_v1.0.ozp" bytes="15800805" xxhsum="54d6f2c91bf8f6ea" category="Generic" />
+    <mod ident="VS-31_AG_v1.0" file="VS-31_AG_v1.0.ozp" bytes="10851606" xxhsum="204849d6066fc108" category="Generic" />
+    <mod ident="VS-32_AB_High_Vis_v1.0" file="VS-32_AB_High_Vis_v1.0.ozp" bytes="15783150" xxhsum="dcd160feb77fc1b9" category="Generic" />
+    <mod ident="VS-32_AB_v1.0" file="VS-32_AB_v1.0.ozp" bytes="9446964" xxhsum="93c7e78d7d67f72c" category="Generic" />
+    <mod ident="VS-33_NG_v1.0" file="VS-33_NG_v1.0.ozp" bytes="9488974" xxhsum="8a047c7d63dc3593" category="Generic" />
+    <mod ident="VS-33_Screwbirds_HiVis_1977_v1.0" file="VS-33_Screwbirds_HiVis_1977_v1.0.ozp" bytes="15805456" xxhsum="877379f9d9528dd0" category="Generic" />
+    <mod ident="VS-37_NK_High_Vis_v1.0" file="VS-37_NK_High_Vis_v1.0.ozp" bytes="15826025" xxhsum="67d19e212bc47e71" category="Generic" />
+    <mod ident="VS-38_NE_High_Vis_v1.0" file="VS-38_NE_High_Vis_v1.0.ozp" bytes="15818211" xxhsum="e5d29b7509b2082b" category="Generic" />
+    <mod ident="VS-38_NE_Low_Vis_v1.0" file="VS-38_NE_Low_Vis_v1.0.ozp" bytes="9669728" xxhsum="3b521a1eb3ab5506" category="Generic" />
+  </references>
+</Open_Mod_Manager_Repository>

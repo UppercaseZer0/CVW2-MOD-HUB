@@ -4,6 +4,8 @@
   <title>E-2C Liveries</title>
   <downpath>https://github.com/UppercaseZer0/CVW2-MOD-HUB.git</downpath>
   <references count="0">
-    <mod ident="CVW-2_VAW-113_CAG_v1.0" file="CVW-2_VAW-113_CAG_v1.0.ozp" bytes="23244115" xxhsum="f8081f0451029f1d" category="Generic" />
+    <mod ident="CVW-2_VAW-113_CAG_v1.0" file="CVW-2_VAW-113_CAG_v1.0.ozp" bytes="23244115" xxhsum="f8081f0451029f1d" category="Generic">
+      <url>https://github.com/UppercaseZer0/CVW2-MOD-HUB/raw/refs/heads/main/Liveries/E-2C/CVW-2_VAW-113_CAG_v1.0.ozp</url>
+    </mod>
   </references>
 </Open_Mod_Manager_Repository>

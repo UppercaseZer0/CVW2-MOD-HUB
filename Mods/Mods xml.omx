@@ -10,6 +10,8 @@
     <mod ident="Military_Aircraft_Mod_V1.7.1a" file="Military_Aircraft_Mod_V1.7.1a.zip" bytes="193032587" xxhsum="81960e8b8d17954c" category="">
       <url>https://drive.usercontent.google.com/open?id=1Bq5GhKx38-eYN33GoBB1nQ4CS591c9xl&amp;authuser=0</url>
     </mod>
-    <mod ident="476 vFG - Air Weapons Range Objects" file="476 vFG - Air Weapons Range Objects.zip" bytes="45386122" xxhsum="7aa32a36fe567a43" category="" />
+    <mod ident="476 vFG - Air Weapons Range Objects" file="476 vFG - Air Weapons Range Objects.zip" bytes="45386122" xxhsum="7aa32a36fe567a43" category="">
+      <url>https://github.com/UppercaseZer0/CVW2-MOD-HUB/raw/refs/heads/main/Mods/476%20vFG%20-%20Air%20Weapons%20Range%20Objects.zip</url>
+    </mod>
   </references>
 </Open_Mod_Manager_Repository>

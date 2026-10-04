@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<Open_Mod_Manager_Repository>
-  <uuid>c55c537b-8418-45ab-b239-0af4e605560c</uuid>
-  <title>Mods</title>
-  <downpath>files/</downpath>
-  <references count="0">
-    <mod ident="476 vFG - Air Weapons Range Objects" file="476 vFG - Air Weapons Range Objects.zip" bytes="45339070" xxhsum="15f603e0617163ae" category="" />
-  </references>
-</Open_Mod_Manager_Repository>

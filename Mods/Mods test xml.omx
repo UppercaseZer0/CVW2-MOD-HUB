@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<Open_Mod_Manager_Repository>
-  <uuid>c80d80da-7a25-4146-89d7-dcf2fa948ebd</uuid>
-  <title>Mods</title>
-  <downpath>https://github.com/UppercaseZer0/CVW2-MOD-HUB.git</downpath>
-  <references count="0">
-    <mod ident="476 vFG - Air Weapons Range Objects" file="476 vFG - Air Weapons Range Objects.zip" bytes="45339070" xxhsum="15f603e0617163ae" category="" />
-  </references>
-</Open_Mod_Manager_Repository>
